@@ -18,6 +18,7 @@ Unity 2022 LTS | C# | UGUI | Addressables  可寻址资源管理 | 面向对象�
 
 ## 体验游戏
  [Windows可运行Demo下载](https://github.com/pjttt/Hero-Trial/releases/download/v1/demo.zip)
+ [demo运行视频](https://github.com/pjttt/Hero-Trial/releases/download/v1/demo.mp4)
 > 下载压缩包解压，双击 `勇者试炼.exe` 直接运行。
 
 ## 重点代码位置

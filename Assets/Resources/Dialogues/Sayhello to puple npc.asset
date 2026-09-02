@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecf5d48fb7eb8064486df46540f30339, type: 3}
+  m_Name: Sayhello to puple npc
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - actor: {fileID: 11400000, guid: 4d481045a40977b49b88301a5ea9ed33, type: 2}
+    text: hellow i am kk
+  - actor: {fileID: 11400000, guid: 4d481045a40977b49b88301a5ea9ed33, type: 2}
+    text: "You\u2019ve just come to this little town, a place filled with eerie happenings."
+  - actor: {fileID: 11400000, guid: 4d481045a40977b49b88301a5ea9ed33, type: 2}
+    text: be careful ! !
+  dialogueOptions:
+  - optionText: tell me more
+    nextDialogue: {fileID: 11400000, guid: 21f6467151892f9419e4fb6dc58bc168, type: 2}
+  - optionText: no interesting
+    nextDialogue: {fileID: 11400000, guid: 6f7672ab52bfae147bfa18fc914b9a71, type: 2}

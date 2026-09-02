@@ -17,7 +17,7 @@ Unity 2022 LTS | C# | UGUI | Addressables  可寻址资源管理 | 面向对象�
 6.** NPC对话功能 **
 
 ## 体验游戏
- [Windows可运行Demo下载](sha256:001f7dc55cbac2528b4df5f316751c9afe69a49f9be31652de27e6458124d317)
+ [Windows可运行Demo下载](https://github.com/pjttt/Hero-Trial/releases/download/v1/demo.zip)
 > 下载压缩包解压，双击 `勇者试炼.exe` 直接运行。
 
 ## 重点代码位置
